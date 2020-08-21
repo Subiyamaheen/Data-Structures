@@ -1,0 +1,15 @@
+#To calculate the grade obtained by a student.
+Step1: Start Grading Students
+Step2: Input first subject as s1
+Step3: Input second subject as s2
+Step4: Input third subject as s3
+Step5: a:=(s1+s2+s3)/3
+Step6: if(a>=75) then
+          Do print('A grade')
+       elif(a>=65 and a<75)
+          Do print('B grade')
+       elif(a>=40 and a<65)
+          Do print('C grade')
+       else
+          Do print('F grade')
+Step7: End Grading Students
